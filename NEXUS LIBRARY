@@ -4,10 +4,6 @@ local ui_options = {
 	toggle_key = Enum.KeyCode.RightShift,
 	can_resize = true,
     title_font = Enum.Font.Creepster, -- add this
-    Library:Notify{
-    Title = "NEXUS HUB",
-    Content = "The script has been loaded.",
-    Duration = 1
 }
 
 do

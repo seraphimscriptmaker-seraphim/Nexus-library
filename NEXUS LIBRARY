@@ -1,7 +1,7 @@
 local ui_options = {
 	main_color = Color3.fromRGB(150, 1, 1),
 	min_size = Vector2.new(400, 300),
-	toggle_key = Enum.KeyCode.RightShift,
+	toggle_key = Enum.KeyCode.C,
 	can_resize = true,
     title_font = Enum.Font.Creepster, -- add this
 }
